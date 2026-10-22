@@ -1,0 +1,482 @@
+[buildPlans.JlasevkaMono]
+family = "Jlasevka Mono"
+spacing = "normal"
+serifs = "slab"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.JlasevkaMono.variants.design]
+one = "no-base"
+two = "curly-neck-serifless"
+three = "flat-top-serifless"
+four = "semi-open-serifless"
+five = "oblique-flat-serifless"
+six = "open-contour"
+seven = "curly-serifless-crossbar"
+eight = "two-circles"
+nine = "open-contour"
+zero = "diamond-reverse-slashed-split"
+capital-a = "curly-serifless"
+capital-b = "standard-serifless"
+capital-c = "bilateral-inward-serifed"
+capital-d = "standard-serifless"
+capital-e = "serifless"
+capital-f = "serifless"
+capital-g = "toothless-corner-inward-serifed-hooked"
+capital-h = "serifless"
+capital-i = "serifed"
+capital-j = "serifless"
+capital-k = "curly-serifless"
+capital-l = "serifless"
+capital-m = "hanging-serifless"
+capital-n = "asymmetric-serifless"
+capital-p = "closed-serifless"
+capital-q = "crossing"
+capital-r = "standing-serifless"
+capital-s = "bilateral-inward-serifed"
+capital-t = "serifless"
+capital-u = "toothless-rounded-serifless"
+capital-v = "curly-serifless"
+capital-w = "curly-serifless"
+capital-x = "curly-serifless"
+capital-y = "curly-serifless"
+capital-z = "curly-serifless"
+a = "double-storey-serifless"
+b = "toothed-serifless"
+c = "bilateral-inward-serifed"
+d = "toothed-serifless"
+e = "flat-crossbar"
+f = "flat-hook-serifless-crossbar-at-x-height"
+g = "double-storey"
+h = "straight-serifless"
+i = "serifed"
+j = "flat-hook-serifed"
+k = "curly-serifless"
+l = "serifed"
+m = "serifless"
+n = "straight-serifless"
+p = "eared-serifless"
+q = "straight-serifless"
+r = "hookless-serifless"
+s = "serifless"
+t = "flat-hook-short-neck2"
+u = "toothed-serifless"
+v = "curly-serifless"
+w = "curly-serifless"
+x = "curly-serifless"
+y = "curly-serifless"
+z = "curly-serifless"
+long-s = "bent-hook-middle-serifed"
+lower-beta = "standard"
+capital-delta = "curly"
+lower-theta = "diamond"
+lower-kappa = "curly-serifless"
+capital-lambda = "curly-serifless"
+lower-lambda = "curly"
+lower-mu = "tailed-serifless"
+lower-chi = "semi-chancery-curly-serifless"
+cyrl-capital-zhe = "curly"
+cyrl-zhe = "curly"
+cyrl-capital-ka = "curly-serifless"
+cyrl-ka = "curly-serifless"
+cyrl-em = "flat-bottom-serifless"
+cyrl-capital-u = "curly-serifless"
+cyrl-u = "curly-serifless"
+tittle = "square"
+diacritic-dot = "square"
+punctuation-dot = "square"
+braille-dot = "square"
+ellipsis-density = "normal"
+tilde = "low"
+asterisk = "penta-mid"
+underscore = "high"
+caret = "medium"
+ascii-grave = "straight"
+ascii-single-quote = "straight"
+paren = "flat-arc"
+brace = "curly-flat-boundary"
+guillemet = "straight"
+number-sign = "slanted"
+ampersand = "upper-open"
+at = "threefold"
+dollar = "open"
+cent = "open-cap"
+percent = "rings-segmented-slash"
+bar = "natural-slope"
+question = "smooth"
+pilcrow = "high"
+micro-sign = "toothed-serifless"
+decorative-angle-brackets = "middle"
+lig-ltgteq = "slanted"
+lig-neq = "slightly-slanted"
+lig-equal-chain = "with-notch"
+lig-hyphen-chain = "with-notch"
+lig-plus-chain = "with-notch"
+lig-double-arrow-bar = "with-notch"
+lig-single-arrow-bar = "with-notch"
+
+[buildPlans.JlasevkaMono.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.JlasevkaMono.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.JlasevkaMono.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.JlasevkaMono.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.JlasevkaMono.widths.Extended]
+shape = 600
+menu = 7
+css = "expanded"
+
+[buildPlans.JlasevkaMono.widths.SemiExtended]
+shape = 548
+menu = 6
+css = "semi-expanded"
+
+[buildPlans.JlasevkaMono.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.JlasevkaMono.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+
+
+
+[buildPlans.JlasevkaTerm]
+family = "Jlasevka Term"
+spacing = "term"
+serifs = "slab"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.JlasevkaTerm.variants.design]
+one = "no-base"
+two = "curly-neck-serifless"
+three = "flat-top-serifless"
+four = "semi-open-serifless"
+five = "oblique-flat-serifless"
+six = "open-contour"
+seven = "curly-serifless-crossbar"
+eight = "two-circles"
+nine = "open-contour"
+zero = "diamond-reverse-slashed-split"
+capital-a = "curly-serifless"
+capital-b = "standard-serifless"
+capital-c = "bilateral-inward-serifed"
+capital-d = "standard-serifless"
+capital-e = "serifless"
+capital-f = "serifless"
+capital-g = "toothless-corner-inward-serifed-hooked"
+capital-h = "serifless"
+capital-i = "serifed"
+capital-j = "serifless"
+capital-k = "curly-serifless"
+capital-l = "serifless"
+capital-m = "hanging-serifless"
+capital-n = "asymmetric-serifless"
+capital-p = "closed-serifless"
+capital-q = "crossing"
+capital-r = "standing-serifless"
+capital-s = "bilateral-inward-serifed"
+capital-t = "serifless"
+capital-u = "toothless-rounded-serifless"
+capital-v = "curly-serifless"
+capital-w = "curly-serifless"
+capital-x = "curly-serifless"
+capital-y = "curly-serifless"
+capital-z = "curly-serifless"
+a = "double-storey-serifless"
+b = "toothed-serifless"
+c = "bilateral-inward-serifed"
+d = "toothed-serifless"
+e = "flat-crossbar"
+f = "flat-hook-serifless-crossbar-at-x-height"
+g = "double-storey"
+h = "straight-serifless"
+i = "serifed"
+j = "flat-hook-serifed"
+k = "curly-serifless"
+l = "serifed"
+m = "serifless"
+n = "straight-serifless"
+p = "eared-serifless"
+q = "straight-serifless"
+r = "hookless-serifless"
+s = "serifless"
+t = "flat-hook-short-neck2"
+u = "toothed-serifless"
+v = "curly-serifless"
+w = "curly-serifless"
+x = "curly-serifless"
+y = "curly-serifless"
+z = "curly-serifless"
+long-s = "bent-hook-middle-serifed"
+lower-beta = "standard"
+capital-delta = "curly"
+lower-theta = "diamond"
+lower-kappa = "curly-serifless"
+capital-lambda = "curly-serifless"
+lower-lambda = "curly"
+lower-mu = "tailed-serifless"
+lower-chi = "semi-chancery-curly-serifless"
+cyrl-capital-zhe = "curly"
+cyrl-zhe = "curly"
+cyrl-capital-ka = "curly-serifless"
+cyrl-ka = "curly-serifless"
+cyrl-em = "flat-bottom-serifless"
+cyrl-capital-u = "curly-serifless"
+cyrl-u = "curly-serifless"
+tittle = "square"
+diacritic-dot = "square"
+punctuation-dot = "square"
+braille-dot = "square"
+ellipsis-density = "normal"
+tilde = "low"
+asterisk = "penta-mid"
+underscore = "high"
+caret = "medium"
+ascii-grave = "straight"
+ascii-single-quote = "straight"
+paren = "flat-arc"
+brace = "curly-flat-boundary"
+guillemet = "straight"
+number-sign = "slanted"
+ampersand = "upper-open"
+at = "threefold"
+dollar = "open"
+cent = "open-cap"
+percent = "rings-segmented-slash"
+bar = "natural-slope"
+question = "smooth"
+pilcrow = "high"
+micro-sign = "toothed-serifless"
+decorative-angle-brackets = "middle"
+lig-ltgteq = "slanted"
+lig-neq = "slightly-slanted"
+lig-equal-chain = "with-notch"
+lig-hyphen-chain = "with-notch"
+lig-plus-chain = "with-notch"
+lig-double-arrow-bar = "with-notch"
+lig-single-arrow-bar = "with-notch"
+
+[buildPlans.JlasevkaTerm.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.JlasevkaTerm.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.JlasevkaTerm.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.JlasevkaTerm.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.JlasevkaTerm.widths.Extended]
+shape = 600
+menu = 7
+css = "expanded"
+
+[buildPlans.JlasevkaTerm.widths.SemiExtended]
+shape = 548
+menu = 6
+css = "semi-expanded"
+
+[buildPlans.JlasevkaTerm.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.JlasevkaTerm.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+
+
+
+[buildPlans.JlasevkaDoc]
+family = "Jlasevka Doc"
+spacing = "quasi-proportional"
+serifs = "slab"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.JlasevkaDoc.variants.design]
+one = "base"
+two = "curly-neck-serifed"
+three = "flat-top-serifless"
+four = "semi-open-serifless"
+five = "oblique-flat-serifed"
+six = "open-contour"
+seven = "curly-serifed-crossbar"
+eight = "two-circles"
+nine = "open-contour"
+zero = "diamond-reverse-slashed-split"
+capital-a = "curly-base-serifed"
+capital-b = "standard-bilateral-serifed"
+capital-c = "bilateral-inward-serifed"
+capital-d = "standard-bilateral-serifed"
+capital-e = "serifed"
+capital-f = "serifed"
+capital-g = "toothless-corner-serifed-hooked"
+capital-h = "serifed"
+capital-i = "serifed"
+capital-j = "serifed-both-sides"
+capital-k = "curly-serifed"
+capital-l = "serifed"
+capital-m = "flat-bottom-serifed"
+capital-n = "asymmetric-serifed"
+capital-p = "closed-serifed"
+capital-q = "crossing"
+capital-r = "standing-serifed"
+capital-s = "bilateral-inward-serifed"
+capital-t = "serifed"
+capital-u = "toothless-rounded-serifed"
+capital-v = "curly-serifed"
+capital-w = "curly-serifed"
+capital-x = "curly-serifed"
+capital-y = "curly-serifed"
+capital-z = "curly-serifed"
+a = "double-storey-serifed"
+b = "toothed-serifed"
+c = "bilateral-inward-serifed"
+d = "toothed-serifed"
+e = "flat-crossbar"
+f = "flat-hook-serifed-crossbar-at-x-height"
+g = "double-storey"
+h = "straight-serifed"
+i = "serifed"
+j = "flat-hook-serifed"
+k = "curly-serifed"
+l = "serifed"
+m = "serifed"
+n = "straight-serifed"
+p = "eared-serifed"
+q = "straight-serifed"
+r = "hookless-serifed"
+s = "bilateral-inward-serifed"
+t = "flat-hook-short-neck2"
+u = "toothed-serifed"
+v = "curly-serifed"
+w = "curly-serifed"
+x = "curly-serifed"
+y = "curly-serifed"
+z = "curly-serifed"
+long-s = "bent-hook-middle-serifed"
+lower-beta = "standard"
+capital-delta = "curly"
+lower-theta = "diamond"
+lower-kappa = "curly-serifless"
+capital-lambda = "curly-serifless"
+lower-lambda = "curly"
+lower-mu = "tailed-serifless"
+lower-chi = "semi-chancery-curly-serifless"
+cyrl-capital-zhe = "curly"
+cyrl-zhe = "curly"
+cyrl-capital-ka = "curly-serifless"
+cyrl-ka = "curly-serifless"
+cyrl-em = "flat-bottom-serifless"
+cyrl-capital-u = "curly-serifless"
+cyrl-u = "curly-serifless"
+tittle = "square"
+diacritic-dot = "square"
+punctuation-dot = "square"
+braille-dot = "square"
+ellipsis-density = "normal"
+tilde = "low"
+asterisk = "penta-mid"
+underscore = "high"
+caret = "medium"
+ascii-grave = "straight"
+ascii-single-quote = "straight"
+paren = "flat-arc"
+brace = "curly-flat-boundary"
+guillemet = "straight"
+number-sign = "slanted"
+ampersand = "upper-open"
+at = "threefold"
+dollar = "open"
+cent = "open-cap"
+percent = "rings-segmented-slash"
+bar = "natural-slope"
+question = "smooth"
+pilcrow = "high"
+micro-sign = "toothed-serifless"
+decorative-angle-brackets = "middle"
+lig-ltgteq = "slanted"
+lig-neq = "slightly-slanted"
+lig-equal-chain = "with-notch"
+lig-hyphen-chain = "with-notch"
+lig-plus-chain = "with-notch"
+lig-double-arrow-bar = "with-notch"
+lig-single-arrow-bar = "with-notch"
+
+[buildPlans.JlasevkaDoc.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.JlasevkaDoc.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.JlasevkaDoc.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.JlasevkaDoc.widths.Condensed]
+shape = 500
+menu = 3
+css = "condensed"
+
+[buildPlans.JlasevkaDoc.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.JlasevkaDoc.widths.SemiCondensed]
+shape = 548
+menu = 4
+css = "semi-condensed"
+
+[buildPlans.JlasevkaDoc.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.JlasevkaDoc.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
